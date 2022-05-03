@@ -1,5 +1,7 @@
 # dotfiles
-### zsh
+zsh
+---
 .zshrc
-### vscode
+vscode
+---
 .vscode/settings.json
